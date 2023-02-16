@@ -1,0 +1,34 @@
+.bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Con {
+  display: flex;
+  flex-direction: column;
+}
+.passwordCreate {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.passwordPart {
+  display: flex;
+  flex-direction: column;
+}
+.website {
+  display: flex;
+  justify-content: flex-start;
+}
+.lower {
+  display: flex;
+  justify-content: center;
+}
+.passwordCountAndSearch {
+  display: flex;
+  justify-content: space-between;
+}
+.passwordCon {
+  display: flex;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,13 @@
+.passItems {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.initial {
+  background-color: blue;
+  color: white;
+}
+.others {
+  display: flex;
+  flex-direction: column;
+}
